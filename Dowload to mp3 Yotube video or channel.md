@@ -14,4 +14,4 @@
 
 Sample command:
 
-`youtube-dl -f best https://www.youtube.com/watch?v=mgDtC61bH98 --cookies ~/cookies.txt`
+`youtube-dl https://www.youtube.com/watch?v=mgDtC61bH98 --cookies ~/cookies.txt`
